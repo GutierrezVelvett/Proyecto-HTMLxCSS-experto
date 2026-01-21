@@ -1,0 +1,9 @@
+.page{
+  background-color: #0f2121;
+  max-width: 1920px;
+  min-width: 320px;
+  margin: 0 auto;
+  color: white;
+  font-family: "Gilroy Medium";
+  font-size: 16px;
+}

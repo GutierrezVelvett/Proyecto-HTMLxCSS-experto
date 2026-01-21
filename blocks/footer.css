@@ -1,0 +1,40 @@
+.footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 40px 160px;
+}
+
+.footer__about, .footer__blog, .footer__MNTN {
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+}
+
+.footer__about-text {
+  max-width: 303px;
+}
+
+.footer__about-copyright {
+  margin-top: 122px;
+  color: rgb(255, 255, 255, 0.5);
+}
+
+.footer__title{
+  color: #FBD784;
+}
+.footer__links{
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  padding: 0;
+  list-style-type: none;
+}
+
+.footer__link {
+  font-style: normal;
+  font-weight:lighter;
+  line-height: 20px;
+  text-decoration: none;
+  color: white;
+}
