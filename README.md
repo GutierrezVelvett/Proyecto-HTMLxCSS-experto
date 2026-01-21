@@ -1,4 +1,4 @@
-# Tripleten project_expertoHTMLxCSS
+# Project_Landing Page
 
 Proyecto web para practicar HTML y CSS avanzado, enfocado en el diseño responsivo y la estructura semántica.  
 Esta página presenta una landing page de guía de senderismo con navegación interactiva, secciones de contenido y un diseño moderno y adaptable.
@@ -19,3 +19,9 @@ Esta página presenta una landing page de guía de senderismo con navegación in
 Velvett Montserrat Gutiérrez Castillo - [gutierrezvelvett@gmail.com](mailto:gutierrezvelvett@gmail.com)
 
 GitHub - [gutierrezvelvett](https://github.com/gutierrezvelvett)
+
+## Referencia
+
+Figma. (2025). Figma. [Copyright 2023 MNTN, Inc. Terms & Privacy](https://www.figma.com/design/I0XgIjXs4IMl3fd3RGTXAU/MNTN---Landing-Page--Community-?node-id=0-1&p=f&t=oAC3b3wgEirjArBZ-0)
+
+‌
