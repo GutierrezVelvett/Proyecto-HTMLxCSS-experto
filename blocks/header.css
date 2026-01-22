@@ -5,7 +5,6 @@
   padding-top: 64px;
   padding-bottom: 602px;
   position: relative;
-
 }
 
 .header__content {
@@ -85,11 +84,11 @@
 
 .header__timeline-line {
   position: absolute;
-  left: 70px;      /* ajusta para que quede al lado derecho del texto */
+  left: 70px;
   top: 0;
   bottom: 0;
   width: 2px;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255, 255, 255, 0.7);
 }
 
 .header__timeline-step {
@@ -98,7 +97,7 @@
   font-weight: 500;
 }
 
-.header::after{
+.header::after {
   content: "";
   position: absolute;
   bottom: 0;
@@ -107,4 +106,3 @@
   height: 700px;
   background-image: linear-gradient(to bottom, transparent, #0f2121 80%);
 }
-
