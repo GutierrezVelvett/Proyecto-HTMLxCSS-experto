@@ -92,8 +92,13 @@
   margin-right: auto;
 }
 
-@media screen and (max-width: 1440px) {
-  .content__section-step {
-    bottom: 440px;
+@media screen and (max-width: 1920px) and (min-width: 667px) {
+  .content__section-image {
+    margin-left: 114px;
+    /* width: auto; */
+  }
+
+  .content__essentials .content__section-image {
+    margin-right: 114px;
   }
 }
