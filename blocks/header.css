@@ -106,3 +106,20 @@
   height: 700px;
   background-image: linear-gradient(to bottom, transparent, #0f2121 80%);
 }
+
+@media screen and (max-width: 430px) {
+  .header__social {
+    padding-left: 13px;
+  }
+  .header__element {
+    margin: 102px 20px;
+    row-gap: 0;
+  }
+  .header__title {
+    font-size: 68px;
+  }
+  .header__timeline {
+    top: 36%;
+    right: 54px;
+  }
+}

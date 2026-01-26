@@ -19,17 +19,26 @@
   list-style-type: none;
 }
 
-  .nav__link {
-    font-style: normal;
-    font-weight:bold;
-    line-height: 20px;
-    text-decoration: none;
-    color: white;
-  }
+.nav__link {
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+  text-decoration: none;
+  color: white;
+}
 
 .nav__account {
   display: flex;
   align-items: center;
   column-gap: 10px;
   font-weight: bold;
+}
+
+@media screen and (max-width: 430px) {
+  .nav {
+    margin: 0 15px 0;
+  }
+  .nav__links {
+    column-gap: 15px;
+  }
 }

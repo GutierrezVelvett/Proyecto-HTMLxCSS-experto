@@ -1,4 +1,4 @@
-.page{
+.page {
   background-color: #0f2121;
   max-width: 1920px;
   min-width: 320px;
@@ -6,4 +6,11 @@
   color: white;
   font-family: "Gilroy Medium";
   font-size: 16px;
+}
+
+@media screen and (max-width: 430px) {
+  .page {
+    font-size: 14px;
+    min-width: 515px;
+  }
 }
